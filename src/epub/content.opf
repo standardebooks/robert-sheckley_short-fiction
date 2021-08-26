@@ -81,15 +81,55 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/ask-a-foolish-question.xhtml" id="ask-a-foolish-question.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bad-medicine.xhtml" id="bad-medicine.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beside-still-waters.xhtml" id="beside-still-waters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/cost-of-living.xhtml" id="cost-of-living.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/death-wish.xhtml" id="death-wish.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/diplomatic-immunity.xhtml" id="diplomatic-immunity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/final-examination.xhtml" id="final-examination.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/forever.xhtml" id="forever.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/keep-your-shape.xhtml" id="keep-your-shape.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/meeting-of-the-minds.xhtml" id="meeting-of-the-minds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/one-mans-poison.xhtml" id="one-mans-poison.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/proof-of-the-pudding.xhtml" id="proof-of-the-pudding.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prospectors-special.xhtml" id="prospectors-special.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hour-of-battle.xhtml" id="the-hour-of-battle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-leech.xhtml" id="the-leech.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sweeper-of-loray.xhtml" id="the-sweeper-of-loray.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/warm.xhtml" id="warm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/warrior-race.xhtml" id="warrior-race.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/watchbird.xhtml" id="watchbird.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/writing-class.xhtml" id="writing-class.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="final-examination.xhtml"/>
+		<itemref idref="proof-of-the-pudding.xhtml"/>
+		<itemref idref="warrior-race.xhtml"/>
+		<itemref idref="cost-of-living.xhtml"/>
+		<itemref idref="the-leech.xhtml"/>
+		<itemref idref="writing-class.xhtml"/>
+		<itemref idref="watchbird.xhtml"/>
+		<itemref idref="ask-a-foolish-question.xhtml"/>
+		<itemref idref="warm.xhtml"/>
+		<itemref idref="diplomatic-immunity.xhtml"/>
+		<itemref idref="the-hour-of-battle.xhtml"/>
+		<itemref idref="beside-still-waters.xhtml"/>
+		<itemref idref="keep-your-shape.xhtml"/>
+		<itemref idref="one-mans-poison.xhtml"/>
+		<itemref idref="death-wish.xhtml"/>
+		<itemref idref="bad-medicine.xhtml"/>
+		<itemref idref="forever.xhtml"/>
+		<itemref idref="the-sweeper-of-loray.xhtml"/>
+		<itemref idref="prospectors-special.xhtml"/>
+		<itemref idref="meeting-of-the-minds.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
