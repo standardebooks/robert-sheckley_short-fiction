@@ -41,7 +41,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>PG_URL</dc:source>
 		<dc:source>IA_URL</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
@@ -67,7 +67,8 @@
 		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
@@ -88,6 +89,7 @@
 		<item href="text/cost-of-living.xhtml" id="cost-of-living.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/death-wish.xhtml" id="death-wish.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/diplomatic-immunity.xhtml" id="diplomatic-immunity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/final-examination.xhtml" id="final-examination.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/forever.xhtml" id="forever.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -130,6 +132,7 @@
 		<itemref idref="the-sweeper-of-loray.xhtml"/>
 		<itemref idref="prospectors-special.xhtml"/>
 		<itemref idref="meeting-of-the-minds.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
