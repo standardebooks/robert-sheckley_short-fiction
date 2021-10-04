@@ -30,43 +30,144 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Judgment Day--Fiction</dc:subject>
+		<dc:subject id="subject-4">Post-apocalyptic fiction</dc:subject>
+		<dc:subject id="subject-5">Authorship--Fiction</dc:subject>
+		<dc:subject id="subject-6">Questions and answers--Fiction</dc:subject>
+		<dc:subject id="subject-7">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-8">Robots--Fiction</dc:subject>
+		<dc:subject id="subject-9">Extraterrestrial beings--Fiction</dc:subject>
+		<dc:subject id="subject-10">Scientists--Fiction</dc:subject>
+		<dc:subject id="subject-11">Extrasolar planets--Fiction</dc:subject>
+		<dc:subject id="subject-12">Prospecting--Fiction</dc:subject>
+		<dc:subject id="subject-13">Venus (Planet)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008117632</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008105650</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008110972</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2009125313</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008111358</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">Unknown</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">Unknown</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<!-- Final Examination -->
+		<dc:source>https://www.gutenberg.org/ebooks/65838</dc:source>
+		<dc:source>https://archive.org/details/Imagination_v03n03_1952-05_LennyS-cape1736</dc:source>
+		<!-- Proof of the Pudding -->
+		<dc:source>https://www.gutenberg.org/ebooks/50844</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1952-08</dc:source>
+		<!-- Warrior Race -->
+		<dc:source>https://www.gutenberg.org/ebooks/29548</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1952-11</dc:source>
+		<!-- Cost of Living -->
+		<dc:source>https://www.gutenberg.org/ebooks/29458</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1952-12</dc:source>
+		<!-- The Leech -->
+		<dc:source>https://www.gutenberg.org/ebooks/29525</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1952-12</dc:source>
+		<!-- Writing Class -->
+		<dc:source>https://www.gutenberg.org/ebooks/65952</dc:source>
+		<dc:source>https://archive.org/details/Imagination_v03n07_1952-12_LennyS-cape1736</dc:source>
+		<!-- Watchbird -->
+		<dc:source>https://www.gutenberg.org/ebooks/29579</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1953-02</dc:source>
+		<!-- Ask a Foolish Question -->
+		<dc:source>https://www.gutenberg.org/ebooks/33854</dc:source>
+		<dc:source>https://archive.org/details/Science_Fiction_Stories_01_1953</dc:source>
+		<!-- Warm -->
+		<dc:source>https://www.gutenberg.org/ebooks/29509</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1953-06</dc:source>
+		<!-- Diplomatic Immunity -->
+		<dc:source>https://www.gutenberg.org/ebooks/32040</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1953-08</dc:source>
+		<!-- The Hour of Battle -->
+		<dc:source>https://www.gutenberg.org/ebooks/29445</dc:source>
+		<dc:source>https://archive.org/details/Space_Science_Fiction_v02n02_1953-09_UnkSc-cape1736</dc:source>
+		<!-- Beside Still Waters -->
+		<dc:source>https://www.gutenberg.org/ebooks/29446</dc:source>
+		<dc:source>https://archive.org/details/Amazing_Stories_v27n07_1953-10-11_Gorgon776</dc:source>
+		<!-- Keep Your Shape -->
+		<dc:source>https://www.gutenberg.org/ebooks/32346</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1953-11</dc:source>
+		<!-- One Man's Poison -->
+		<dc:source>https://www.gutenberg.org/ebooks/32041</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1953-12</dc:source>
+		<!-- Death Wish -->
+		<dc:source>https://www.gutenberg.org/ebooks/29876</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1956-06</dc:source>
+		<!-- Forever -->
+		<dc:source>https://www.gutenberg.org/ebooks/29487</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1959-02</dc:source>
+		<!-- The Sweeper of Loray -->
+		<dc:source>https://www.gutenberg.org/ebooks/51545</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v17n04_1959-04</dc:source>
+		<!-- Prospector's Special -->
+		<dc:source>https://www.gutenberg.org/ebooks/51768</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v18n02_1959-12</dc:source>
+		<!-- Meeting of the Minds -->
+		<dc:source>https://www.gutenberg.org/ebooks/51833</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v18n03_1960-02</dc:source>
+		<meta property="se:production-notes">Story "Bad Medicine" is excluded due to it being a copyrighted Gutenberg work.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Robert_Sheckley_short_stories_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-sheckley_short-fiction</meta>
 		<dc:creator id="author">Robert Sheckley</dc:creator>
 		<meta property="file-as" refines="#author">Sheckley, Robert</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Sheckley</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50022137</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Wassily Kandinsky</dc:contributor>
+		<meta property="file-as" refines="#artist">Kandinsky, Wassily</meta>
+		<meta property="se:name.person.full-name" refines="#author">Wassily Wassilyevich Kandinsky</meta>
+		<meta property="alternate-script" refines="#author">Василий Васильевич Кандинский</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wassily_Kandinsky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79059310</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Blundell, Stephen</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Sankar Viswanathan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Viswanathan, Sankar</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-5">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
