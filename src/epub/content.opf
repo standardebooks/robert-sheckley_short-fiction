@@ -73,7 +73,9 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/robert-sheckley"&gt;Robert Sheckley&lt;/a&gt; was one of the most prolific science fiction short story writers. Though less known today, he was a giant of his time and has been nominated for the Hugo and Nebula awards.&lt;/p&gt;
+			&lt;p&gt;Though plenty of his stories take on serious topics, they are most widely remembered for their comedic wit. A lot of his writing has been compared to that of Douglas Adams, who held Sheckley in high regard: “He’s a very, very funny writer. He’s also a stylist. Very few science fiction writers write English well. Robert Sheckley can.” Sheckley was also well-respected by Kingsley Amis who, in his book &lt;i&gt;New Maps of Hell: A Survey of Science Fiction&lt;/i&gt;, includes Sheckley in a list with Frederik Pohl and Arthur C. Clark and says their volumes should “be reviewed as general fiction, not tucked away, as one writer has put it, in something called ‘Spaceman’s Realm’ between the kiddy section and dog stories.”&lt;/p&gt;
+			&lt;p&gt;Sheckley wrote about and pioneered many science fiction concepts such as his story “Watchbird,” which explores the ability to detect murder before it happens (published 3 years before Philip K. Dick’s “The Minority Report”). Or “Ask a Foolish Question,” a story about an all-knowing Answerer to whom people pose the ultimate question of life (published 26 years before Douglas Adams’ &lt;i&gt;The Hitchhiker’s Guide to the Galaxy&lt;/i&gt;). Alongside these two stories, this collection includes all of his public domain short fiction in publication order.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Final Examination -->
