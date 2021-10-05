@@ -4,3 +4,7 @@
 #proof-of-the-pudding blockquote{
 	font-variant: small-caps;
 }
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
