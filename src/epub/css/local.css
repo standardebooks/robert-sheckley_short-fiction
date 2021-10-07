@@ -1,6 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#final-examination p:nth-last-of-type(1),
+#final-examination p:nth-last-of-type(2){
+	font-style: italic;
+}
+
 #proof-of-the-pudding blockquote{
 	font-variant: small-caps;
 }
