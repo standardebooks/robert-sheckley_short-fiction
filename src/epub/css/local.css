@@ -8,3 +8,7 @@
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
+
+q{
+	font-style: italic;
+}
