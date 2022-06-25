@@ -69,6 +69,7 @@
 		<meta property="term" refines="#subject-13">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of science fiction and fantasy stories by Robert Sheckley ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/robert-sheckley"&gt;Robert Sheckley&lt;/a&gt; was one of science fiction’s most prolific short story writers. Though less known today than he was in his heyday, he was a giant of his time and was nominated for the Hugo and Nebula awards.&lt;/p&gt;
