@@ -149,8 +149,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Wassily Kandinsky</dc:contributor>
 		<meta property="file-as" refines="#artist">Kandinsky, Wassily</meta>
-		<meta property="schema:alternateName" refines="#author">Wassily Wassilyevich Kandinsky</meta>
-		<meta property="alternate-script" refines="#author">Василий Васильевич Кандинский</meta>
+		<meta property="schema:alternateName" refines="#artist">Wassily Wassilyevich Kandinsky</meta>
+		<meta property="alternate-script" refines="#artist">Василий Васильевич Кандинский</meta>
 		<link href="https://en.wikipedia.org/wiki/Wassily_Kandinsky" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79059310.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
